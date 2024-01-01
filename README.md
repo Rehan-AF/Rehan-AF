@@ -104,6 +104,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rehan-AF/Rehan-AF/output/snake.svg" alt="Snake animation" />
+
 
 ###
