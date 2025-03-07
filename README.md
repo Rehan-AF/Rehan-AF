@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm Rehan Afzal, a web developer. My expertise includes JavaScript, React.js, Next.js, Solidity, and blockchain development.</h6>
+<h6 align="left">I'm Rehan Afzal, a web developer. My expertise includes JavaScript, TypeScript, React.js, Next.js, Solidity, and blockchain development.</h6>
 
 ###
 
